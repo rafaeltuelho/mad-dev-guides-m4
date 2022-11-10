@@ -2,7 +2,7 @@
 
 = Setting up mocks to help with parallel development
 
-Now that the OpenAPI specs are finalised, creation of API mocks will enable parallel development streams leading to rapid inner loop development. 
+Now that the OpenAPI specs are finalized, creation of API mocks will enable parallel development streams leading to rapid inner loop development. 
 
 * The various  dev teams (such as mobile dev) do not need to wait for the APIs to be completely developed and instead can use these mocks to get realistic responses. 
 * Backend developers in parallel build the backend applications APIs using modern cloud-native frameworks such as https://quarkus.io/[Quarkus^, window=product-page]. 
